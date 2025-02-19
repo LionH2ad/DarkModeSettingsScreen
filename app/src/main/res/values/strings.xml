@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DarkModeSettingsScreen</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="main_screen">Main Screen</string>
+    <string name="setting">Setting</string>
+
+    <string name="setting_screen">Setting Screen</string>
+    <string name="dark_mode">Dark Mode</string>
 </resources>
